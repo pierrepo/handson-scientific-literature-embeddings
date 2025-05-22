@@ -1,0 +1,12 @@
+[project]
+name = "handson-scientific-litterature-embeddings"
+version = "0.1.0"
+description = "Hands-on Session: Exploring physical sciences scientific literature using embeddings"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastembed>=0.7.0",
+    "jupyterlab>=4.4.2",
+    "numpy>=2.2.6",
+    "requests>=2.32.3",
+]
