@@ -7,11 +7,13 @@ requires-python = ">=3.12"
 dependencies = [
     "fastembed>=0.4.2",
     "gensim>=4.3.2",
+    "ipywidgets>=8.1.7",
     "jupyterlab>=4.4.2",
     "matplotlib>=3.10.3",
     "requests>=2.32.3",
     "scikit-learn>=1.6.1",
     "scipy==1.12",
+    "tqdm>=4.67.1",
 ]
 
 [dependency-groups]
