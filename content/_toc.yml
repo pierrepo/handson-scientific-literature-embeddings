@@ -7,8 +7,8 @@ parts:
 - caption: Computer setup
   chapters:
   - file: setup
-- caption: Introduction à Unix
+- caption: Embeddings with code
   numbered: true
   chapters:
-  - file: tuto1/tutorial
-  - file: tuto1/more
+  - file: word_embeddings
+  - file: sentence_embeddings
