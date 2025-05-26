@@ -17,3 +17,4 @@ parts:
   chapters:
   - file: word_embeddings
   - file: sentence_embeddings
+  - file: literature_mining.ipynb
