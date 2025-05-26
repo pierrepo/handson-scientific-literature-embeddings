@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Computer setup
+  chapters:
+  - file: setup
+- caption: Introduction à Unix
+  numbered: true
+  chapters:
+  - file: tuto1/tutorial
+  - file: tuto1/more

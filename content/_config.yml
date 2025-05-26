@@ -1,0 +1,50 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Unix tutorial
+author: Pierre Poulain
+logo: img/logo_DUO.png
+exclude_patterns: [_build, .venv, "**.ipynb_checkpoints"]
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: off
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/pierrepo/handson-scientific-literature-embeddings  # Online location of your book
+  path_to_book: content  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+parse:
+  # Parse and render settings: does not work so far
+  myst_links_external_new_tab: true
+  myst_enable_extensions:
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default! See here: https://jupyterbook.org/en/stable/customize/config.html
+    - html_image
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_multitoc_numbering: false # Chapter numbering starts at 1 between parts
+  use_download_button: false
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: true
+  extra_footer: |
+    <p>
+    Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International</a> license (CC BY-SA 4.0).
+    </p>
+
+sphinx:
+  config:
+    html_show_copyright: false
+    latex_show_urls: 'footnote'
+  extra_extensions:
+  - sphinxcontrib.mermaid
+
+latex:
+  latex_documents:
+     targetname: book.tex
