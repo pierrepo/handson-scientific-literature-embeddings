@@ -41,9 +41,11 @@ Tokens are context-dependent. A capital letter or a space could lead to very dif
 ## Tokens and languages
 
 1. Enter a sentence (for instance, “What is DNA?”) and find out how many tokens are used to express this sentence.
-2. Try the same sentence in different languages? What do you observe regarding the number of tokens used?
+2. Try the same sentence in different languages. What do you observe regarding the number of tokens used?
 
+```{note}
 Most LLM vocabularies are based on the English language. Words and phrases in other languages could be represented with tokens, but usually with more tokens.
 This is important given that the cost of LLM usage is per token. For instance, 1 million input tokens cost 5,00 $US with the GPT-4o model.
+```
 
-3. Find out other examples with different languages (for instance "J'aime la bioinfo") and tokenizers. Share your most interesting findings in a shared document.
+3. Find out other examples with different languages (for instance "J'aime la bioinformatique" in French) and tokenizers.
