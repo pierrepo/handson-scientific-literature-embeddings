@@ -1,0 +1,12 @@
+# Jupyter Book builds
+content/_build/
+content/.ipynb_checkpoints/
+
+# VS Code config
+.vscode/
+
+# Python envs
+.venv
+
+# secrets
+.env
