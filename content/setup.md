@@ -3,7 +3,7 @@
 
 ## Install uv
 
-Uv a (relatively new) tool to manage Python environments and dependencies. It is similar to `pipenv` or `poetry`, but with a focus on simplicity and speed.
+`uv` a (relatively new) tool to manage Python environments and dependencies. It is similar to `pipenv` or `poetry`, but with a focus on simplicity and speed.
 
 Install `uv` on your user account (on Linux / macOS):
 
@@ -24,7 +24,7 @@ $ cd handson-scientific-literature-embeddings
 Sync environment and install dependencies:
 
 ```bash
-$ uv sync --dev
+$ uv sync
 ```
 
 Run Jupyter Lab:
