@@ -7,12 +7,12 @@ parts:
 - caption: Computer setup
   chapters:
   - file: setup
-- caption: Embeddings without code
+- caption: No-code hands-on
   numbered: true
   chapters:
   - file: tokens
   - file: embeddings
-- caption: Embeddings with code
+- caption: Coding hands-on
   numbered: true
   chapters:
   - file: word_embeddings
