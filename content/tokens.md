@@ -11,7 +11,7 @@ Open OpenAI Tokenizer in a web browser: <https://platform.openai.com/tokenizer>
 
 3. Tokens are colored in various colors. One token = one colored block.
 4. How many tokens are used to represent the sentence above?
-5. Pay attention to token delimitations (color blocks). How are spaces handled?
+5. Pay attention to token boundaries (color blocks). How are spaces handled?
 6. How many tokens are used to represent the word “bioinformatics”?
 
 ```{note}
@@ -21,9 +21,9 @@ Large language models (LLMs) can use a limited set of words called tokens. When 
 7. Keep the same sentence as above, and click on “GPT-3 (Legacy)”
 8. How many tokens are used to represent the word “bioinformatics”?
 
-Each LLM has its owns vocabulary (set of tokens). GPT-4o’s vocabulary has about 200,000 tokens, whereas GPT-4's has 100,000 tokens and GPT2’s vocabulary has 50,000 tokens. Complex words like “bioinformatics” are easier to represent with a large vocabulary. However, larger vocabularies require more memory and computation.
+Each LLM has its own vocabulary (set of tokens). GPT-4o’s vocabulary has about 200,000 tokens, whereas GPT-4's has 100,000 tokens and GPT2’s vocabulary has 50,000 tokens. Complex words like “bioinformatics” are easier to represent with a large vocabulary. However, larger vocabularies require more memory and computation.
 
-9. Find out other examples of words that are chunked into multiple tokens. Try with different tokenizers ("GPT-4o", "GPT-4", "GPT-3").
+9. Find out other examples of words that are chunked into multiple tokens. Try different tokenizers ("GPT-4o", "GPT-4", "GPT-3").
 
 
 ## Tokens are more than words
@@ -45,7 +45,7 @@ Tokens are context-dependent. A capital letter or a space could lead to very dif
 
 ```{note}
 Most LLM vocabularies are based on the English language. Words and phrases in other languages could be represented with tokens, but usually with more tokens.
-This is important given that the cost of LLM usage is per token. For instance, 1 million input tokens cost 5,00 $US with the GPT-4o model.
+This is important given that the cost of using an LLM is per token. For instance, 1 million input tokens cost 5.00 $US with the GPT-4o model.
 ```
 
 3. Find out other examples with different languages (for instance "J'aime la bioinformatique" in French) and tokenizers.
