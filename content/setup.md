@@ -33,5 +33,6 @@ Run Jupyter Lab:
 $ uv run jupyter lab
 ```
 
-Then create a new notebook and follow the instructions provided in the next sections of the practical.
+The first part of this hands-on session does not require any code. The goal is to familiarize yourself with import concepts like tokens and embeddings.
+The second part will require you to run some code to explore the scientific literature using embeddings. You will use the Jupyter Lab interface to run Python code and interact with the data.
 

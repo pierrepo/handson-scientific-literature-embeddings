@@ -7,6 +7,11 @@ parts:
 - caption: Computer setup
   chapters:
   - file: setup
+- caption: Embeddings without code
+  numbered: true
+  chapters:
+  - file: tokens
+  - file: embeddings
 - caption: Embeddings with code
   numbered: true
   chapters:
