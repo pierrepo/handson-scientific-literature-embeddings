@@ -11,9 +11,9 @@ Instructor: P. Poulain
 ## Content compilation
 
 
-Install [uv](https://pixi.sh/latest/).
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
-Clone the repository:
+Clone this repository:
 
 ```bash
 $ git clone https://github.com/pierrepo/handson-scientific-literature-embeddings
@@ -24,7 +24,6 @@ Sync environment and install dependencies:
 
 ```bash
 $ uv sync --dev
-
 ```
 
 Compile the content:
