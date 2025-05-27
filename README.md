@@ -1,6 +1,6 @@
 # Hands-on session: Exploring physical sciences scientific literature using embeddings
 
-Summer school: *Machine Learning in Physical Sciences: Theory and Applications*
+CECAM Flaship school: [*Machine Learning in Physical Sciences: Theory and Applications*](https://www.cecam.org/workshop-details/machine-learning-in-physical-sciences-theory-and-applications-1449)
 
 Instructor: P. Poulain
 
