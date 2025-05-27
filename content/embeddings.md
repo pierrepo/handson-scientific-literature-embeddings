@@ -5,8 +5,9 @@ Embeddings are numerical vector representations of tokens (words, subwords, or c
 Words (tokens) with similar meanings are located closer together in this high-dimensional space.
 
 
-*In this section, we are mentioning words, but in reality we are manipulating [tokens](tokens.md).*
-
+```{note}
+In this section, we are mentioning words, but in reality we are manipulating [tokens](tokens.md).
+```
 
 ## Explore the multidimensional space
 
