@@ -33,7 +33,7 @@ $ git clone https://github.com/pierrepo/handson-scientific-literature-embeddings
 $ cd handson-scientific-literature-embeddings
 ```
 
-Create a Python virtual environment and install dependencies:
+Create a Python virtual environment and install dependencies with `uv`:
 
 ```bash
 $ uv sync
@@ -42,7 +42,7 @@ $ uv sync
 ## Let's go 🚀
 
 
-Run Jupyter Lab:
+Run Jupyter Lab (also with `uv`):
 
 ```bash
 $ uv run jupyter lab
