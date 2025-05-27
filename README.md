@@ -1,4 +1,4 @@
-# Hands-on Session: Exploring physical sciences scientific literature using embeddings
+# Hands-on session: Exploring physical sciences scientific literature using embeddings
 
 Summer school: *Machine Learning in Physical Sciences: Theory and Applications*
 

@@ -18,6 +18,6 @@ This content is licensed under a [Creative Commons Attribution - ShareAlike 4.0 
 
 ## Colophon
 
-This hands-on is built with [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and hosted on [GitHub](https://github.com/pierrepo/llm-practicals).
+This hands-on is built with [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and hosted on [GitHub](https://github.com/pierrepo/handson-scientific-literature-embeddings).
 
 You are welcome to [raise an issue](https://github.com/pierrepo/handson-scientific-literature-embeddings/issues/new/) or send me an e-mail if you find any error.

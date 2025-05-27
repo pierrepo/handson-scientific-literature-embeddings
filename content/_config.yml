@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Unix tutorial
+title: Exploring physical sciences scientific literature using embeddings
 author: Pierre Poulain
-logo: img/logo_DUO.png
+logo: img/logo_UPCite.png
 exclude_patterns: [_build, .venv, "**.ipynb_checkpoints"]
 
 # Force re-execution of notebooks on each build.
