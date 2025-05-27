@@ -1,5 +1,9 @@
 # Tokens
 
+A token is a basic unit of text used in Natural Language Processing (NLP) and computational linguistics. Tokenization is the process of splitting text into tokens. It is one of the first steps in preparing text before using language models like BERT or GPT.
+
+---
+
 Open OpenAI Tokenizer in a web browser: <https://platform.openai.com/tokenizer>
 
 ## Tokens are not words
