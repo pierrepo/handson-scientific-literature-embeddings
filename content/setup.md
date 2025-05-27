@@ -39,6 +39,9 @@ Create a Python virtual environment and install dependencies:
 $ uv sync
 ```
 
+## Let's go 🚀
+
+
 Run Jupyter Lab:
 
 ```bash
