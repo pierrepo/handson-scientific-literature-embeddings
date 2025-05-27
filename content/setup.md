@@ -24,7 +24,9 @@ You might obtain a slightly different version number, which is fine. The importa
 ```
 
 
-## Clone the repository
+## Prepare files and environment
+
+Clone the GitHub repository with the hands-on material:
 
 ```bash
 $ git clone https://github.com/pierrepo/handson-scientific-literature-embeddings
