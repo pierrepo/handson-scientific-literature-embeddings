@@ -1,6 +1,6 @@
 # Hands-on: Exploring physical sciences scientific literature using embeddings
 
-> Welcome to the world of large language models ✨
+> Welcome to the world of (large) language models ✨
 
 In this hands-on session, we will explore how to use **embeddings** (high-dimensional vectors that integrate semantic meaning) to analyze scientific literature in the physical sciences. We will cover the following topics:
 - Manipulating the concepts of tokens and embeddings
