@@ -2,7 +2,9 @@
 
 > Welcome to the world of (large) language models ✨
 
-In this hands-on session, we will explore how to use **embeddings** (high-dimensional vectors that integrate semantic meaning) to analyze scientific literature in the physical sciences. We will cover the following topics:
+In this hands-on session, we will explore how to use **embeddings** (high-dimensional vectors that integrate semantic meaning) to analyze scientific literature in the physical sciences. Embeddings are a core component of most large language models, enabling them to manipulate text in a way that captures the relationships between words and concepts. Embeddings are also essential for advanced tasks such as Retrieval-Augmented Generation (RAG) that combines the power of language models with external knowledge sources.
+
+Today, we will cover the following topics:
 - Manipulating the concepts of tokens and embeddings
 - Exploring embeddings in high-dimensional space
 - Performing vector arithmetic with embeddings
