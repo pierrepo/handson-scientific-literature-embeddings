@@ -2,6 +2,13 @@
 
 > Welcome to the world of large language models ✨
 
+In this hands-on session, we will explore how to use **embeddings** (high-dimensional vectors that integrate semantic meaning) to analyze scientific literature in the physical sciences. We will cover the following topics:
+- Manipulating the concepts of tokens and embeddings
+- Exploring embeddings in high-dimensional space
+- Performing vector arithmetic with embeddings
+- Visualizing embeddings with dimensionality reduction techniques like PCA and UMAP
+- Using embeddings to analyze scientific literature
+
 
 ## Table of contents
 
