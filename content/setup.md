@@ -50,4 +50,4 @@ $ uv run jupyter lab
 
 The first part of this hands-on session does not require any coding. Its goal is to help you become familiar with key concepts such as tokens and embeddings.
 
-In the second part, you will run code to explore scientific literature using embeddings. You will use the Jupyter Lab interface to execute Python code and interact with data. We recommend starting with a new notebook and copying commands as they are provided. However, if you are not familiar with Python or Jupyter Lab, you can use the notebooks available in the `content` directory.
+In the second part, you will run code to explore scientific literature using embeddings. You will use the Jupyter Lab interface to execute Python code and interact with data. We recommend starting with a new notebook and copying commands as they are provided. Take time to understand the code and its purpose. Don't worry if don't have time to complete everything during the session. This material will remain available for you to explore later at your own pace.
