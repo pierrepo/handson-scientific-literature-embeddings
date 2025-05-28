@@ -1,20 +1,20 @@
 # Setup the hands-on environment
 
 ```{warning}
-Manipulating embeddings requires a Python environment with many specific libraries installed. It is 
+Manipulating embeddings requires a Python environment with specific libraries installed. It is 
 essential to set up the environment correctly before starting the hands-on session.
 
 This hands-on session assumes you have some familiarity with Python and Jupyter Lab.
 
-During this session, you will to download a couple of language models and datasets that may take some time, depending on your internet connection. 
+During this session, you will have to download a couple of language models and datasets that may take some time, depending on your internet connection. 
 ```
 
 
 ## Install uv
 
-`uv` is a relatively new tool to manage Python environments and dependencies. It is similar to `pipenv` or `poetry`, but with a focus on simplicity and speed.
+`uv` is a new tool to manage Python environments and dependencies. It is similar to `pipenv` or `poetry`, but with a focus on simplicity and speed.
 
-Install `uv` on your user account (on Linux / macOS):
+Install `uv` on your user session (on Linux / macOS):
 
 ```bash
 $ wget -qO- https://astral.sh/uv/install.sh | sh
