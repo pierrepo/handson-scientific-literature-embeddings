@@ -8,6 +8,7 @@ Today, we will cover the following topics:
 - Manipulating the concepts of tokens and embeddings
 - Exploring embeddings in high-dimensional space
 - Performing vector arithmetic with embeddings
+- Comparing embeddings with cosine similarity
 - Visualizing embeddings with dimensionality reduction techniques like PCA and UMAP
 - Using embeddings to analyze scientific literature
 
