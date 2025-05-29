@@ -62,4 +62,4 @@ Viewing embeddings in high-dimensional space is impossible for any human. The we
 - cucumber - vegetable + fruit = ?
 - sushi - japan + germany = ?
 - beer - bubble + grape = ?
-4. Try to find other word operations. Share your most interesting findings in a shared document.
+4. Try to find other word operations. Share your most interesting findings with the group.
